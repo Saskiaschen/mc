@@ -1,0 +1,801 @@
+19:47:42.775 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+19:47:42.879 I [Application] 程序版本：正式版 2.13.1.1 (408)
+19:47:42.879 I [Application] 识别码：3F0F-7BD6-C856-9CFF
+19:47:42.879 I [Application] 程序路径：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\pcl.exe
+19:47:42.881 I [Application] 系统编码：Windows-1252 (1252, GBK=False)
+19:47:42.881 I [Application] 管理员权限：False
+19:47:42.881 I [Application] 第一阶段加载用时：139 ms
+19:47:43.029 I [FormMain] 版本号从 381 升高到 408
+19:47:43.031 I [FormMain] 最高版本号从 381 升高到 408
+19:47:43.042 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+19:47:43.050 I [ModSecret] 刷新主题：0
+19:47:43.084 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+19:47:43.084 I [FormMain] 第二阶段加载用时：195 ms
+19:47:43.090 I <6 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+19:47:43.235 I [FormMain] 从设置更新背景图片与标题栏样式
+19:47:43.268 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+19:47:43.270 I <8 · Animation> [ModAnimation] 动画线程开始
+19:47:43.271 I [FormMain] 第三阶段加载用时：38 ms
+19:47:43.277 I <12 · Version Check> [PageLaunchLeft] 没有已储存的 Minecraft 文件夹
+19:47:43.278 I <12 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+19:47:43.278 I <13 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+19:47:43.286 W <10 · 初始化> [ModJava] 正在从老版本迁移 Java 列表
+19:47:43.303 I <12 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:47:43.312 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Ms 状态改变：Loading
+19:47:43.321 I <14 · L/Loader Skin Ms> [ModNet] 发起网络请求（GET，https://sessionserver.mojang.com/session/minecraft/profile/387758ed2174438489bd7a55a7ed7b21），最大超时 10000
+19:47:43.343 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+19:47:43.352 I [MyMsgText] 普通弹窗：PCL 已更新至正式版 2.13.1.1
+19:47:43.352 I [MyMsgText] · 新增：重做 Java 管理与相关设置，允许调整 Java 优先级、指定 Java 版本范围等
+19:47:43.352 I [MyMsgText] · 优化：导出整合包时允许自动导出版本文件夹中的 Java
+19:47:43.352 I [MyMsgText] · 优化：重做弹出提示的样式以及动画，以更符合现代 UI 审美
+19:47:43.352 I [MyMsgText] · 优化：降低 Minecraft 的内存占用
+19:47:43.352 I [MyMsgText] · 优化：版本设置中，添加打开截图文件夹的快捷方式
+19:47:43.352 I [MyMsgText] · 优化：导出整合包时，可以勾选导出光影设置文件
+19:47:43.352 I [MyMsgText] · 优化：升级框架到 .NET Framework 4.8
+19:47:43.352 I [MyMsgText] · 优化：下载游戏、整合包的稳定性
+19:47:43.352 I [MyMsgText] · 修复：Minecraft 使用 Java 25+ 时的一个性能问题
+19:47:43.352 I [MyMsgText] · 修复：无法下载 NeoForge 26.1
+19:47:43.352 I [MyMsgText] · 149 项小调整与修改，修复了 115 个 Bug，详见完整更新日志
+19:47:43.389 I [ModMinecraft] 当前选择的 Minecraft 版本：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:47:43.394 I [PageLaunchLeft] 启动按钮：Minecraft 版本：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:47:43.396 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+19:47:43.398 I <15 · L/登录> [ModLaunch] 登录加载已开始
+19:47:43.398 I <15 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Loading
+19:47:43.400 I <16 · L/Loader Login Ms> [ModLaunch] 登录方式：正版（SIHAOCHEN）
+19:47:43.402 I <16 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 1/6（刷新登录）
+19:47:43.403 I <10 · 初始化> [TaskUtils] 运行程序，并返回其输出：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe -XshowSettings:properties -version，最长可等待 15000ms
+19:47:43.403 I [ModNet] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+19:47:43.666 I [ModNet] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+19:47:43.680 W [ModNet] 网络请求失败（POST，https://login.live.com/oauth20_token.srf）：错误码 BadRequest (400)，POST，https://login.live.com/oauth20_token.srf
+19:47:43.680 W [ModNet] {"error":"invalid_grant","error_description":"The user could not be authenticated as the grant is expired. The user must sign in again.","correlation_id":"e7d16508-35b0-4a8f-8671-bcca365a4f91"}
+19:47:43.680 W [ModNet]    在 PCL.ModNet.SendRequest
+19:47:43.680 W [ModNet]    在 PCL.ModNet.NetRequestByClient
+19:47:43.680 W [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+19:47:43.714 I <14 · L/Loader Skin Ms> [ModMinecraft] UUID 387758ed2174438489bd7a55a7ed7b21 对应的皮肤文件为 https://textures.minecraft.net/texture/e5cdc3243b2153ab28a159861be643a4fc1e3c17d291cdd3e57a7f370ad676f3
+19:47:43.715 I <14 · L/Loader Skin Ms> [ModNet] 通过网络请求直接下载小文件：https://textures.minecraft.net/texture/e5cdc3243b2153ab28a159861be643a4fc1e3c17d291cdd3e57a7f370ad676f3 → C:\Users\*****\AppData\Local\Temp\PCL\Cache\Skin\10418672143662192779.png.PCLDownloading
+19:47:43.715 I <Async> [Java] 检查 Java 成功：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:47:43.716 I <10 · 初始化> [ModJava] 已从老版本设置中发现 1 个 Java
+19:47:43.769 I <10 · 初始化> [ModJava] 共有 1 个可用的 Java：
+19:47:43.769 I <10 · 初始化> [ModJava] - Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:47:43.813 W [ModNet] 网络请求失败（POST，https://login.live.com/oauth20_token.srf）：错误码 BadRequest (400)，POST，https://login.live.com/oauth20_token.srf
+19:47:43.813 W [ModNet] {"error":"invalid_grant","error_description":"The user could not be authenticated as the grant is expired. The user must sign in again.","correlation_id":"6d2ae7c0-0cff-46a2-bc8e-629d092caae7"}
+19:47:43.813 W [ModNet]    在 PCL.ModNet.SendRequest
+19:47:43.813 W [ModNet]    在 PCL.ModNet.NetRequestByClient
+19:47:43.813 W [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+19:47:43.881 I <10 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+19:47:43.882 I <10 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+19:47:43.883 I <35 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+19:47:43.883 I <33 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+19:47:43.883 I <35 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+19:47:43.883 I <36 · Telemetry> [ModMain] 匿名数据上报：启动
+19:47:43.889 I <34 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+19:47:43.946 I <14 · L/Loader Skin Ms> [ModMinecraft] 皮肤下载成功：C:\Users\*****\AppData\Local\Temp\PCL\Cache\Skin\10418672143662192779.png
+19:47:43.946 I <14 · L/Loader Skin Ms> [ModLoader] 加载器 LoaderTask`2 Loader Skin Ms 状态改变：Finished
+19:47:43.973 I [ModBase] 将资源写入到文件：libwebp64 → C:\Users\*****\AppData\Roaming\PCL\libwebp.dll
+19:47:43.979 I [MySkin] 载入头像成功：Loader Skin Ms
+19:47:44.002 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.26200.0，PCL 位置：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\pcl.exe
+19:47:44.035 I <33 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：151ms，可优先使用官方源
+19:47:44.035 I <33 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+19:47:44.190 I <16 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 1/6（原始登录）
+19:47:44.190 I <16 · L/Loader Login Ms> [ModNet] 发起网络请求（POST，https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode），最大超时 10000
+19:47:44.996 I <16 · L/Loader Login Ms> [ModLaunch] 网页登录地址：https://www.microsoft.com/link
+19:47:45.069 I [MyButton] 按下按钮：确定
+19:47:45.070 I <5 · UpdateLog Output> [ModMain] 普通弹框返回：1
+19:47:45.256 I [MyMsgLogin] 登录弹窗：登录 Minecraft
+19:47:45.256 I [MyMsgLogin] 登录网页将自动开启，请在网页中输入 AQGHSFAM（已自动复制）。
+19:47:45.256 I [MyMsgLogin] 如果网络环境不佳，网页可能一直加载不出来，届时请使用加速器或 VPN 改善网络环境。
+19:47:45.256 I [MyMsgLogin] 你也可以用其他设备打开 https://www.microsoft.com/link 并输入上述代码。
+19:47:45.268 W <34 · L/PCL 配置更新> [ModNet] 网络请求失败（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}）：错误码 Forbidden (403)，GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1795718864-63086711-0-0266758198d3e9146d8659ab6dcc6e37
+19:47:45.268 W <34 · L/PCL 配置更新> [ModNet]    在 PCL.ModNet.SendRequest
+19:47:45.268 W <34 · L/PCL 配置更新> [ModNet]    在 PCL.ModNet.NetRequestByClient
+19:47:45.268 W <34 · L/PCL 配置更新> [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+19:47:45.268 W <34 · L/PCL 配置更新> [ModSecret] 获取 PCL 服务器状态失败：错误码 Forbidden (403)，GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1795718864-63086711-0-0266758198d3e9146d8659ab6dcc6e37
+19:47:45.268 W <34 · L/PCL 配置更新> [ModSecret]    在 PCL.ModNet.SendRequest
+19:47:45.268 W <34 · L/PCL 配置更新> [ModSecret]    在 PCL.ModNet.NetRequestByClient
+19:47:45.268 W <34 · L/PCL 配置更新> [ModSecret]    在 PCL.ModNet.NetRequestByClientRetry
+19:47:45.268 W <34 · L/PCL 配置更新> [ModSecret]    在 PCL.ModSecret.ServerSub
+19:47:45.268 W <34 · L/PCL 配置更新> [ModSecret]    错误类型：MeloongCore.HttpRequestCodeException
+19:47:45.268 I <34 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+19:47:47.261 I <6 · MyMsgLogin> [ModBase] 正在打开网页：https://www.microsoft.com/link
+19:47:47.261 I <6 · MyMsgLogin> [ModBase] 启动进程：https://www.microsoft.com/link 
+19:47:47.439 I [ModMain] 弹出提示：已成功复制！
+19:47:47.447 I [ModAnimation] 两个动画帧间隔 125 ms
+19:48:16.165 I [MyButton] 按下按钮：重新打开网页
+19:48:16.169 I <35 · 执行自定义事件 140> [ModEvent] 执行自定义事件：打开网页, https://www.microsoft.com/link
+19:48:16.169 I <35 · 执行自定义事件 140> [ModBase] 正在打开网页：https://www.microsoft.com/link
+19:48:16.169 I <35 · 执行自定义事件 140> [ModBase] 启动进程：https://www.microsoft.com/link 
+19:48:16.216 I [ModMain] 弹出提示：正在开启，请稍候：https://www.microsoft.com/link
+19:48:21.589 I [MyButton] 按下按钮：取消
+19:48:21.629 I <16 · L/Loader Login Ms> [ModLoader] 操作已取消（加载线程 Loader Login Ms 已取消，当前已完成 5%）
+19:48:21.629 I <16 · L/Loader Login Ms> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Canceled
+19:48:21.644 I <15 · L/登录> [ModLoader] 操作已取消（加载线程 登录 已取消，当前已完成 5%）
+19:48:21.644 I <15 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Canceled
+19:48:21.801 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+19:48:21.815 I [ModAnimation] 两个动画帧间隔 217 ms
+19:48:25.149 I [MyButton] 按下按钮：启动游戏
+19:48:25.153 I [ModLoader] 加载器 LoaderTask`2 Loader Launch 状态改变：Loading
+19:48:25.171 I <58 · L/Loader Launch> [ModLaunch] 预检测已通过
+19:48:25.173 I <58 · L/Loader Launch> [ModDownload] 开始后台检查资源文件索引
+19:48:25.173 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Loading
+19:48:25.176 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Loading
+19:48:25.176 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 Minecraft 启动 状态改变：Loading
+19:48:25.176 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Loading
+19:48:25.177 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+19:48:25.177 I <61 · L/后台分析资源文件索引地址> [ModDownload] 版本 Closing Song1.6.8 对应的资源文件索引为 5
+19:48:25.177 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Loading
+19:48:25.177 I <63 · L/登录> [ModLaunch] 登录加载已开始
+19:48:25.177 I <63 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Loading
+19:48:25.178 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Loading
+19:48:25.178 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Loading
+19:48:25.178 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Loading
+19:48:25.178 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Loading
+19:48:25.178 I <65 · L/Loader Login Ms> [ModLaunch] 登录方式：正版（SIHAOCHEN）
+19:48:25.178 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 1/6（刷新登录）
+19:48:25.178 I [ModNet] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+19:48:25.178 I <58 · L/Loader Launch> [ModLoader] Minecraft 启动 已加入任务列表
+19:48:25.179 I <66 · L/分析资源文件索引地址> [ModDownload] 版本 Closing Song1.6.8 对应的资源文件索引为 5
+19:48:25.179 I <61 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Finished
+19:48:25.182 I <61 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Loading
+19:48:25.187 I <69 · L/下载 202> [ModNet] 开始清理下载缓存
+19:48:25.187 I <69 · L/下载 202> [ModNet] 下载缓存已清理
+19:48:25.189 I <66 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Finished
+19:48:25.189 I <62 · L/获取 Java> [ModJava] 正在尝试迁移版本独立的 Java 设置（Closing Song1.6.8）
+19:48:25.189 I <66 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Loading
+19:48:25.190 I <30 · L/下载 197> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Finished
+19:48:25.190 I <30 · L/下载 197> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Loading
+19:48:25.225 I <64 · L/分析缺失支持库文件> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:48:25.230 I <30 · 下载 202/213/217#> [ModNet] 5.json：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/ada52cc672270e8dc69e912b2ba0ea9c141ed664/5.json
+19:48:25.236 I <64 · L/分析缺失支持库文件> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Finished
+19:48:25.237 I <64 · L/分析缺失支持库文件> [ModLoader] 加载器 LoaderDownload 下载支持库文件 状态改变：Loading
+19:48:25.320 I <30 · 下载 202/213/217#> [ModNet] 5.json：文件大小未知
+19:48:25.323 I <62 · L/获取 Java> [ModJava] 没有需要迁移的内容，自动选择 Java
+19:48:25.336 I <62 · L/获取 Java> [ModJava] 自动选择以下范围的 Java：[17.0, 22.0) 
+19:48:25.336 W [ModNet] 网络请求失败（POST，https://login.live.com/oauth20_token.srf）：错误码 BadRequest (400)，POST，https://login.live.com/oauth20_token.srf
+19:48:25.336 W [ModNet] {"error":"invalid_grant","error_description":"The user could not be authenticated as the grant is expired. The user must sign in again.","correlation_id":"fe495f05-58ea-4c3c-a88a-4bc8857fe151"}
+19:48:25.336 W [ModNet]    在 PCL.ModNet.SendRequest
+19:48:25.336 W [ModNet]    在 PCL.ModNet.NetRequestByClient
+19:48:25.336 W [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+19:48:25.338 I <62 · L/获取 Java> [ModJava] 已选定 Java：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:48:25.338 I <62 · L/获取 Java> [ModLaunch] 选择的 Java：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:48:25.338 I <62 · L/获取 Java> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Finished
+19:48:25.378 I <30 · 下载 202/213/217#> [ModNet] 5.json：已完成
+19:48:25.378 I <30 · 下载 202/213/217#> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Finished
+19:48:25.378 I <30 · 下载 202/213/217#> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Finished
+19:48:25.407 I <27 · 下载 文件复制 194/311> [ModLoader] 加载器 LoaderDownload 下载支持库文件 状态改变：Finished
+19:48:25.407 I <27 · 下载 文件复制 194/311> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Finished
+19:48:25.431 I [ModNet] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+19:48:25.444 I <11 · L/获取资源文件列表> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Finished
+19:48:25.444 I <11 · L/获取资源文件列表> [ModLoader] 加载器 LoaderDownload 下载资源文件 状态改变：Loading
+19:48:25.445 I <16 · L/下载 199> [ModLoader] 加载器 LoaderDownload 下载资源文件 状态改变：Finished
+19:48:25.445 I <16 · L/下载 199> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Finished
+19:48:25.445 I <16 · L/下载 199> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Finished
+19:48:25.581 W [ModNet] 网络请求失败（POST，https://login.live.com/oauth20_token.srf）：错误码 BadRequest (400)，POST，https://login.live.com/oauth20_token.srf
+19:48:25.581 W [ModNet] {"error":"invalid_grant","error_description":"The user could not be authenticated as the grant is expired. The user must sign in again.","correlation_id":"9bf5049a-9967-4f1f-9b1e-4f8ef90388e3"}
+19:48:25.581 W [ModNet]    在 PCL.ModNet.SendRequest
+19:48:25.581 W [ModNet]    在 PCL.ModNet.NetRequestByClient
+19:48:25.581 W [ModNet]    错误类型：MeloongCore.HttpRequestCodeException
+19:48:25.944 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 1/6（原始登录）
+19:48:25.944 I <65 · L/Loader Login Ms> [ModNet] 发起网络请求（POST，https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode），最大超时 10000
+19:48:26.102 I <36 · NetManager StatRefresher> [ModNet] 速度下限已提升到 327 K
+19:48:26.687 I <65 · L/Loader Login Ms> [ModLaunch] 网页登录地址：https://www.microsoft.com/link
+19:48:26.725 I [MyMsgLogin] 登录弹窗：登录 Minecraft
+19:48:26.725 I [MyMsgLogin] 登录网页将自动开启，请在网页中输入 7NH5WE7J（已自动复制）。
+19:48:26.725 I [MyMsgLogin] 如果网络环境不佳，网页可能一直加载不出来，届时请使用加速器或 VPN 改善网络环境。
+19:48:26.725 I [MyMsgLogin] 你也可以用其他设备打开 https://www.microsoft.com/link 并输入上述代码。
+19:48:28.727 I <16 · MyMsgLogin> [ModBase] 正在打开网页：https://www.microsoft.com/link
+19:48:28.727 I <16 · MyMsgLogin> [ModBase] 启动进程：https://www.microsoft.com/link 
+19:48:28.775 I [ModMain] 弹出提示：已成功复制！
+19:48:48.671 I [MyButton] 按下按钮：重新打开网页
+19:48:48.672 I <5 · 执行自定义事件 592> [ModEvent] 执行自定义事件：打开网页, https://www.microsoft.com/link
+19:48:48.672 I <5 · 执行自定义事件 592> [ModBase] 正在打开网页：https://www.microsoft.com/link
+19:48:48.672 I <5 · 执行自定义事件 592> [ModBase] 启动进程：https://www.microsoft.com/link 
+19:48:48.692 I [ModMain] 弹出提示：正在开启，请稍候：https://www.microsoft.com/link
+19:49:38.143 I <16 · MyMsgLogin> [ModLaunch] 令牌过期时间：3599 秒
+19:49:38.158 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 2/6
+19:49:38.158 I [ModNet] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+19:49:38.190 I [ModMain] 弹出提示：网页登录成功！
+19:49:38.349 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+19:49:38.409 I [ModNet] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+19:49:38.922 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 3/6
+19:49:38.923 I [ModNet] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+19:49:39.188 I [ModNet] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+19:49:39.696 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 4/6
+19:49:39.697 I <65 · L/Loader Login Ms> [ModNet] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 10000
+19:49:40.374 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 5/6
+19:49:40.375 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 25000
+19:49:40.640 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 25000
+19:49:41.140 I <65 · L/Loader Login Ms> [ModLaunch] 开始微软登录步骤 6/6
+19:49:41.140 I [ModNet] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 25000
+19:49:41.142 I [ModNet] 操作已取消（网络请求失败（GET，https://api.minecraftservices.com/entitlements/mcstore））
+19:49:41.405 I <65 · L/Loader Login Ms> [ModLaunch] 微软登录结束，AccessToken 将在 2026/11/27 19:29:40 过期
+19:49:41.405 I <65 · L/Loader Login Ms> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Finished
+19:49:41.418 I <63 · L/登录> [ModLaunch] 登录加载已结束
+19:49:41.418 I <63 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+19:49:41.419 I <63 · L/登录> [ModLoader] 由于输入条件变更，重启已完成的加载器 登录
+19:49:41.420 I <63 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+19:49:41.420 I <70 · L/登录> [ModLaunch] 登录加载已开始
+19:49:41.420 I <70 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Loading
+19:49:41.421 I <71 · L/Loader Login Ms> [ModLaunch] 登录方式：正版（SIHAOCHEN）
+19:49:41.421 I <71 · L/Loader Login Ms> [ModLaunch] 无需登录，AccessToken 尚未过期
+19:49:41.421 I <71 · L/Loader Login Ms> [ModLaunch] 微软登录结束，AccessToken 将在 2026/11/27 19:29:40 过期
+19:49:41.421 I <71 · L/Loader Login Ms> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Finished
+19:49:41.434 I <70 · L/登录> [ModLaunch] 登录加载已结束
+19:49:41.434 I <70 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+19:49:41.435 I <70 · L/登录> [ModLoader] 加载器 LoaderTask`2 获取启动参数 状态改变：Loading
+19:49:41.437 I <72 · L/获取启动参数> [ModLaunch] 参数获取开始
+19:49:41.441 I <72 · L/获取启动参数> [ModLaunch] 新版 JVM 参数：从版本 JSON 获取（Closing Song1.6.8）
+19:49:41.446 I <72 · L/获取启动参数> [ModLaunch] 使用 JLW：True
+19:49:41.446 I <72 · L/获取启动参数> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:41.447 I <72 · L/获取启动参数> [ModLaunch] 使用 LUA：False
+19:49:41.447 I <72 · L/获取启动参数> [ModLaunch] 当前剩余内存：3.5G
+19:49:41.454 I <72 · L/获取启动参数> [ModLaunch] GC 设置：4，选取 G1GC，Java 版本：17
+19:49:41.455 W <72 · L/获取启动参数> [ModLaunch] 无法识别 Java 编码 cp1252，已回退为 gb2312
+19:49:41.455 I <72 · L/获取启动参数> [ModLaunch] 使用编码：gb2312
+19:49:41.456 I <72 · L/获取启动参数> [LaunchUtils] 选定的资源 Launch\JavaWrapper.jar 输出路径：C:\Users\*****\AppData\Roaming\PCL\
+19:49:41.509 I <72 · L/获取启动参数> [ModLaunch] 新版游戏参数：从版本 JSON 获取（Closing Song1.6.8）
+19:49:41.510 I <72 · L/获取启动参数> [ModLaunch] =================== 启动参数开始 ===================
+19:49:41.514 I <72 · L/获取启动参数> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -Djava.library.path=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -Djna.tmpdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -Dio.netty.native.workdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -Dminecraft.launcher.brand=PCL
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -Dminecraft.launcher.version=408
+19:49:41.516 I <72 · L/获取启动参数> [ModLaunch] -cp
+19:49:41.517 I <72 · L/获取启动参数> [ModLaunch] "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\authlib\4.0.43\authlib-4.0.43.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\securejarhandler\2.1.10\securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-commons\9.7.1\asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-tree\9.7.1\asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-util\9.7.1\asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7.1\asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\eventbus\6.0.5\eventbus-6.0.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\forgespi\7.0.1\forgespi-7.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\coremods\5.2.4\coremods-5.2.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\modlauncher\10.0.9\modlauncher-10.0.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-api.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlloader\1.20.1-47.3.22\fmlloader-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlearlydisplay\1.20.1-47.3.22\fmlearlydisplay-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\Closing Song1.6.8.jar"
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Djava.net.preferIPv6Addresses=system
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,Closing Song1.6.8.jar"
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -DlibraryDirectory=C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -p
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] --add-modules
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] ALL-MODULE-PATH
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] --add-opens
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] java.base/java.util.jar=cpw.mods.securejarhandler
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] --add-opens
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] java.base/java.lang.invoke=cpw.mods.securejarhandler
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] --add-exports
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] java.base/sun.security.util=cpw.mods.securejarhandler
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] --add-exports
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] jdk.naming.dns/com.sun.jndi.dns=java.naming
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:-OmitStackTraceInFastThrow
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Djdk.lang.Process.allowAmbiguousCommands=True
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Dfml.ignoreInvalidMinecraftCertificates=True
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Dfml.ignorePatchDiscrepancies=True
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] --add-exports
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Doolloo.jlw.tmpdir=C:\Users\*****\AppData\Roaming\PCL
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Xmx3584m
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:+UnlockExperimentalVMOptions
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:+UseG1GC
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:G1NewSizePercent=20
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:G1ReservePercent=20
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:G1HeapRegionSize=32M
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:MaxGCPauseMillis=50
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:+PerfDisableSharedMem
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:MinHeapFreeRatio=25
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -XX:MaxHeapFreeRatio=40
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Dlog4j2.formatMsgNoLookups=true
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Dsun.stdout.encoding=gb2312
+19:49:41.526 I <72 · L/获取启动参数> [ModLaunch] -Dsun.stderr.encoding=gb2312
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] -jar
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] C:\Users\*****\AppData\Roaming\PCL\JavaWrapper.jar
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] cpw.mods.bootstraplauncher.BootstrapLauncher
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --username
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] SIHAOCHEN
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --version
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] "Closing Song1.6.8"
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --gameDir
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8"
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --assetsDir
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\assets
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --assetIndex
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 5
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --uuid
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 387758ed2174438489bd7a55a7ed7b21
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --accessToken
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] eyJra*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************LwK1g
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --clientId
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] ${clientid}
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --xuid
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] ${auth_xuid}
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --userType
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] msa
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --versionType
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] PCL
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --width
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 854
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --height
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 480
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --launchTarget
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] forgeclient
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --fml.forgeVersion
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 47.3.22
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --fml.mcVersion
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 1.20.1
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --fml.forgeGroup
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] net.minecraftforge
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] --fml.mcpVersion
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] 20230612.114412
+19:49:41.527 I <72 · L/获取启动参数> [ModLaunch] =================== 启动参数结束 ===================
+19:49:41.528 I <72 · L/获取启动参数> [ModLoader] 加载器 LoaderTask`2 获取启动参数 状态改变：Finished
+19:49:41.528 I <72 · L/获取启动参数> [ModLoader] 加载器 LoaderTask`2 解压文件 状态改变：Loading
+19:49:41.533 I <5 · L/解压文件> [ModLaunch] 正在解压 Natives 文件
+19:49:41.533 I <5 · L/解压文件> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:41.534 I <5 · L/解压文件> [ModLoader] 加载器 LoaderTask`2 解压文件 状态改变：Finished
+19:49:41.535 I <5 · L/解压文件> [ModLoader] 加载器 LoaderTask`2 预启动处理 状态改变：Loading
+19:49:41.540 I <16 · L/预启动处理> [ModMain] 无需调整显卡设置：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe
+19:49:41.540 I <16 · L/预启动处理> [ModMain] 已调整显卡设置：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\pcl.exe
+19:49:41.551 I <16 · L/预启动处理> [ModLaunch] 已更新 launcher_profiles.json
+19:49:41.552 I <16 · L/预启动处理> [ModLaunch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+19:49:41.552 I <16 · L/预启动处理> [ModLoader] 加载器 LoaderTask`2 预启动处理 状态改变：Finished
+19:49:41.552 I <16 · L/预启动处理> [ModLoader] 加载器 LoaderTask`2 执行自定义命令 状态改变：Loading
+19:49:41.557 I <69 · L/执行自定义命令> [ModLoader] 加载器 LoaderTask`2 执行自定义命令 状态改变：Finished
+19:49:41.562 I <69 · L/执行自定义命令> [ModLoader] 加载器 LoaderTask`2 启动进程 状态改变：Loading
+19:49:41.563 I <67 · L/启动进程> [ModBase] 启动进程：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Djna.tmpdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Dio.netty.native.workdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=408 -cp "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\authlib\4.0.43\authlib-4.0.43.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\securejarhandler\2.1.10\securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-commons\9.7.1\asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-tree\9.7.1\asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-util\9.7.1\asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7.1\asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\eventbus\6.0.5\eventbus-6.0.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\forgespi\7.0.1\forgespi-7.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\coremods\5.2.4\coremods-5.2.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\modlauncher\10.0.9\modlauncher-10.0.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-api.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlloader\1.20.1-47.3.22\fmlloader-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlearlydisplay\1.20.1-47.3.22\fmlearlydisplay-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\Closing Song1.6.8.jar" -Djava.net.preferIPv6Addresses=system "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,Closing Song1.6.8.jar" -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries -p C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=True -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir=C:\Users\*****\AppData\Roaming\PCL -Xmx3584m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:G1HeapRegionSize=32M -XX:MaxGCPauseMillis=50 -XX:+PerfDisableSharedMem -XX:MinHeapFreeRatio=25 -XX:MaxHeapFreeRatio=40 -Dlog4j2.formatMsgNoLookups=true -Dsun.stdout.encoding=gb2312 -Dsun.stderr.encoding=gb2312 -jar C:\Users\*****\AppData\Roaming\PCL\JavaWrapper.jar cpw.mods.bootstraplauncher.BootstrapLauncher --username SIHAOCHEN --version "Closing Song1.6.8" --gameDir "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8" --assetsDir C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\assets --assetIndex 5 --uuid 387758ed2174438489bd7a55a7ed7b21 --accessToken eyJra*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************LwK1g --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 47.3.22 --fml.mcVersion 1.20.1 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230612.114412
+19:49:41.585 I <67 · L/启动进程> [ModLaunch] 已启动游戏进程：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe
+19:49:41.586 I <67 · L/启动进程> [ModLoader] 加载器 LoaderTask`2 启动进程 状态改变：Finished
+19:49:41.586 I <67 · L/启动进程> [ModLoader] 加载器 LoaderTask`2 等待游戏窗口出现 状态改变：Loading
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] 
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] ~ 基础参数 ~
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] PCL 版本：正式版 2.13.1.1 (408)
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] 游戏版本：正式版 1.20.1, Forge 47.3.22（20.0.1，Drop 200）
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] 资源版本：5
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] 版本继承：无
+19:49:41.588 I <59 · L/等待游戏窗口出现> [ModLaunch] 分配的内存：3.5 GB（3584 MB）
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] MC 文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] 版本文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] 版本隔离：True
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] HMCL 格式：False
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] Java 信息：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] Natives 文件夹：C:\Users\*****\AppData\Roaming\.minecraft\bin\natives\
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] 
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] ~ 登录参数 ~
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] 玩家用户名：SIHAOCHEN
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] AccessToken：eyJra*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************LwK1g
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] ClientToken：387758ed2174438489bd7a55a7ed7b21
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] UUID：387758ed2174438489bd7a55a7ed7b21
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] 登录方式：Microsoft
+19:49:41.589 I <59 · L/等待游戏窗口出现> [ModLaunch] 
+19:49:41.591 I <59 · L/等待游戏窗口出现> [ModLaunch] [21748] 开始 Minecraft 日志监控
+19:49:41.592 I <59 · L/等待游戏窗口出现> [ModLaunch] [全局] 出现运行中的 Minecraft
+19:49:41.822 I <68 · Minecraft Watcher PID 21748> [ModLaunch] [21748] 日志 1/5：已出现日志输出
+19:49:41.822 I <68 · Minecraft Watcher PID 21748> [ModLaunch] [21748] Minecraft 已退出，返回值：1
+19:49:41.822 E <68 · Minecraft Watcher PID 21748> [ModLaunch] [21748] Minecraft 尚未加载完成，可能已崩溃
+19:49:41.823 I <68 · Minecraft Watcher PID 21748> [ModLaunch] [全局] 已无运行中的 Minecraft
+19:49:41.823 E <68 · Minecraft Watcher PID 21748> [ModLaunch] [21748] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+19:49:41.852 I [ModMain] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+19:49:41.914 I <59 · L/等待游戏窗口出现> [ModLoader] 操作已取消（加载线程 等待游戏窗口出现 已取消，当前已完成 30%）
+19:49:41.914 I <59 · L/等待游戏窗口出现> [ModLoader] 加载器 LoaderTask`2 等待游戏窗口出现 状态改变：Canceled
+19:49:41.914 I <59 · L/等待游戏窗口出现> [ModLoader] 加载器 LoaderCombo`1 Minecraft 启动 状态改变：Canceled
+19:49:41.976 I [ModLoader] Minecraft 启动 已移出任务列表
+19:49:42.006 I <58 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 Loader Launch 状态改变：Finished
+19:49:42.037 I [ModMain] 弹出提示：已取消启动！
+19:49:42.051 W <68 · Minecraft Watcher PID 21748> [ModMain] 诊断信息：
+19:49:42.051 W <68 · Minecraft Watcher PID 21748> [ModMain] 操作系统：Microsoft Windows 11 Home
+19:49:42.051 W <68 · Minecraft Watcher PID 21748> [ModMain] 剩余内存：3576 M / 16136 M
+19:49:42.051 W <68 · Minecraft Watcher PID 21748> [ModMain] DPI：96（100%）
+19:49:42.051 W <68 · Minecraft Watcher PID 21748> [ModMain] MC 文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:49:42.051 W <68 · Minecraft Watcher PID 21748> [ModMain] 文件位置：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\
+19:49:42.287 I <68 · Minecraft Watcher PID 21748> [ModLaunch] [21748] Minecraft 日志监控已退出
+19:49:44.054 I <57 · Crash Analyzer> [ModLaunch] [21748] 崩溃分析开始
+19:49:44.058 I <57 · Crash Analyzer> [ModCrash] 崩溃分析暂存文件夹：C:\Users\*****\AppData\Local\Temp\PCL\TaskTemp\1182-662371\
+19:49:44.059 I <57 · Crash Analyzer> [ModCrash] 步骤 1：收集日志文件
+19:49:44.060 I <57 · Crash Analyzer> [ModCrash] 未发现可能可用的日志文件
+19:49:44.060 I <57 · Crash Analyzer> [ModCrash] 以下为游戏输出的最后一段内容：
+19:49:44.060 I <57 · Crash Analyzer> [ModCrash] Error occurred during initialization of boot layer
+19:49:44.060 I <57 · Crash Analyzer> [ModCrash] java.nio.file.InvalidPathException: Illegal char <?> at index 23: C:\Users\*****\Desktop\???(3)\??????\???1.6.8???(?????)\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar
+19:49:44.060 I <57 · Crash Analyzer> [ModCrash] 步骤 1：收集日志文件完成，收集到 1 个文件
+19:49:44.066 I <57 · Crash Analyzer> [ModCrash] 步骤 2：准备日志文本
+19:49:44.067 I <57 · Crash Analyzer> [ModCrash] rawoutput.log 分类为 MinecraftLog
+19:49:44.068 I <57 · Crash Analyzer> [ModCrash] 输出报告：C:\Users\*****\AppData\Local\Temp\PCL\TaskTemp\1182-662371\RawOutput.log，作为 Minecraft 或启动器日志
+19:49:44.069 I <57 · Crash Analyzer> [ModCrash] 导入分析：C:\Users\*****\AppData\Local\Temp\PCL\TaskTemp\1182-662371\RawOutput.log，作为启动器日志
+19:49:44.069 I <57 · Crash Analyzer> [ModCrash] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+19:49:44.071 I <57 · Crash Analyzer> [ModCrash] 步骤 3：分析崩溃原因
+19:49:44.075 I <57 · Crash Analyzer> [ModCrash] 可能并未安装 Mod，不进行堆栈分析
+19:49:44.075 I <57 · Crash Analyzer> [ModCrash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+19:49:44.078 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+19:49:44.090 I [MyMsgText] 普通弹窗：Minecraft 出现错误
+19:49:44.090 I [MyMsgText] 很抱歉，你的游戏出现了一些问题……
+19:49:44.090 I [MyMsgText] 如果要寻求帮助，请把错误报告文件发给对方，而不是发送这个窗口的照片或者截图。
+19:49:47.360 I [MyButton] 按下按钮：确定
+19:49:47.360 I <57 · Crash Analyzer> [ModMain] 普通弹框返回：1
+19:49:47.360 I <68 · Telemetry> [ModMain] 匿名数据上报：Minecraft 崩溃
+19:49:48.769 I [MyButton] 按下按钮：版本选择
+19:49:48.783 I [FormMain] 切换主要页面：InstanceSelect, SetupLaunch
+19:49:48.904 I [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+19:49:48.904 I [PageLaunchLeft] 启动按钮：正在加载 Minecraft 版本
+19:49:48.914 I <73 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:49:48.914 I <73 · L/Minecraft Instance List> [ModMinecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:49:48.941 I [PageSelectLeft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:49:48.992 I <73 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+19:49:51.186 I [MyIconButton] 按下图标按钮：BtnTitleInner
+19:49:51.187 I [FormMain] 切换主要页面：Launch, -1
+19:49:51.302 I [PageLaunchLeft] 启动按钮：Minecraft 版本：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:49:51.933 I [MyButton] 按下按钮：启动游戏
+19:49:51.933 I [ModLoader] 加载器 LoaderTask`2 Loader Launch 状态改变：Loading
+19:49:51.939 I <68 · L/Loader Launch> [ModLaunch] 预检测已通过
+19:49:51.939 I <68 · L/Loader Launch> [ModDownload] 开始后台检查资源文件索引
+19:49:51.939 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Loading
+19:49:51.939 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Loading
+19:49:51.939 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Waiting
+19:49:51.939 I <75 · L/后台分析资源文件索引地址> [ModDownload] 版本 Closing Song1.6.8 对应的资源文件索引为 5
+19:49:51.939 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 Minecraft 启动 状态改变：Loading
+19:49:51.939 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Loading
+19:49:51.939 I <75 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Finished
+19:49:51.939 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+19:49:51.940 I <75 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Loading
+19:49:51.940 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Loading
+19:49:51.940 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Loading
+19:49:51.940 I <77 · L/登录> [ModLaunch] 登录加载已开始
+19:49:51.940 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Loading
+19:49:51.940 I <77 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Loading
+19:49:51.940 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Loading
+19:49:51.940 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Loading
+19:49:51.940 I <80 · L/Loader Login Ms> [ModLaunch] 登录方式：正版（SIHAOCHEN）
+19:49:51.940 I <80 · L/Loader Login Ms> [ModLaunch] 无需登录，AccessToken 尚未过期
+19:49:51.940 I <80 · L/Loader Login Ms> [ModLaunch] 微软登录结束，AccessToken 将在 2026/11/27 19:29:40 过期
+19:49:51.940 I <80 · L/Loader Login Ms> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Finished
+19:49:51.940 I <68 · L/Loader Launch> [ModLoader] Minecraft 启动 已加入任务列表
+19:49:51.940 I <81 · L/分析资源文件索引地址> [ModDownload] 版本 Closing Song1.6.8 对应的资源文件索引为 5
+19:49:51.940 I <81 · L/分析资源文件索引地址> [ModDownload] 发现后台更新的资源索引缓存文件：C:\Users\*****\AppData\Local\Temp\PCL\Cache\5.json_background
+19:49:51.940 I <76 · L/获取 Java> [ModJava] 自动选择以下范围的 Java：[17.0, 22.0) 
+19:49:51.940 I <76 · L/获取 Java> [ModJava] 已选定 Java：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:49:51.940 I <76 · L/获取 Java> [ModLaunch] 选择的 Java：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:49:51.940 I <76 · L/获取 Java> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Finished
+19:49:51.951 I <77 · L/登录> [ModLaunch] 登录加载已结束
+19:49:51.951 I <77 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+19:49:51.957 I <78 · L/下载 1342> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Finished
+19:49:51.957 I <78 · L/下载 1342> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Finished
+19:49:51.959 I <81 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Finished
+19:49:51.959 I <81 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Loading
+19:49:51.959 I <74 · L/下载 1337> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Finished
+19:49:51.959 I <74 · L/下载 1337> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Loading
+19:49:51.986 I <79 · L/分析缺失支持库文件> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:51.987 I <79 · L/分析缺失支持库文件> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Finished
+19:49:51.987 I <79 · L/分析缺失支持库文件> [ModLoader] 加载器 LoaderDownload 下载支持库文件 状态改变：Loading
+19:49:52.041 I <57 · L/获取资源文件列表> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Finished
+19:49:52.042 I <57 · L/获取资源文件列表> [ModLoader] 加载器 LoaderDownload 下载资源文件 状态改变：Loading
+19:49:52.042 I <28 · L/下载 1339> [ModLoader] 加载器 LoaderDownload 下载资源文件 状态改变：Finished
+19:49:52.042 I <28 · L/下载 1339> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Finished
+19:49:52.081 I <71 · 下载 文件复制 1334/1449> [ModLoader] 加载器 LoaderDownload 下载支持库文件 状态改变：Finished
+19:49:52.081 I <71 · 下载 文件复制 1334/1449> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Finished
+19:49:52.081 I <71 · 下载 文件复制 1334/1449> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Finished
+19:49:52.081 I <71 · 下载 文件复制 1334/1449> [ModLoader] 加载器 LoaderTask`2 获取启动参数 状态改变：Loading
+19:49:52.083 I <65 · L/获取启动参数> [ModLaunch] 参数获取开始
+19:49:52.083 I <65 · L/获取启动参数> [ModLaunch] 新版 JVM 参数：从版本 JSON 获取（Closing Song1.6.8）
+19:49:52.083 I <65 · L/获取启动参数> [ModLaunch] 使用 JLW：True
+19:49:52.083 I <65 · L/获取启动参数> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:52.084 I <65 · L/获取启动参数> [ModLaunch] 使用 LUA：False
+19:49:52.084 I <65 · L/获取启动参数> [ModLaunch] 当前剩余内存：3.6G
+19:49:52.084 I <65 · L/获取启动参数> [ModLaunch] GC 设置：4，选取 G1GC，Java 版本：17
+19:49:52.084 W <65 · L/获取启动参数> [ModLaunch] 无法识别 Java 编码 cp1252，已回退为 gb2312
+19:49:52.084 I <65 · L/获取启动参数> [ModLaunch] 使用编码：gb2312
+19:49:52.084 I <65 · L/获取启动参数> [LaunchUtils] 选定的资源 Launch\JavaWrapper.jar 输出路径：C:\Users\*****\AppData\Roaming\PCL\
+19:49:52.085 I <65 · L/获取启动参数> [ModLaunch] 新版游戏参数：从版本 JSON 获取（Closing Song1.6.8）
+19:49:52.085 I <65 · L/获取启动参数> [ModLaunch] =================== 启动参数开始 ===================
+19:49:52.085 I <65 · L/获取启动参数> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -Djava.library.path=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -Djna.tmpdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -Dio.netty.native.workdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -Dminecraft.launcher.brand=PCL
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -Dminecraft.launcher.version=408
+19:49:52.087 I <65 · L/获取启动参数> [ModLaunch] -cp
+19:49:52.088 I <65 · L/获取启动参数> [ModLaunch] "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\authlib\4.0.43\authlib-4.0.43.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\securejarhandler\2.1.10\securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-commons\9.7.1\asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-tree\9.7.1\asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-util\9.7.1\asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7.1\asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\eventbus\6.0.5\eventbus-6.0.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\forgespi\7.0.1\forgespi-7.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\coremods\5.2.4\coremods-5.2.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\modlauncher\10.0.9\modlauncher-10.0.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-api.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlloader\1.20.1-47.3.22\fmlloader-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlearlydisplay\1.20.1-47.3.22\fmlearlydisplay-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\Closing Song1.6.8.jar"
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Djava.net.preferIPv6Addresses=system
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,Closing Song1.6.8.jar"
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -DlibraryDirectory=C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -p
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --add-modules
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] ALL-MODULE-PATH
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --add-opens
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] java.base/java.util.jar=cpw.mods.securejarhandler
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --add-opens
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] java.base/java.lang.invoke=cpw.mods.securejarhandler
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --add-exports
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] java.base/sun.security.util=cpw.mods.securejarhandler
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --add-exports
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] jdk.naming.dns/com.sun.jndi.dns=java.naming
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:-OmitStackTraceInFastThrow
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Djdk.lang.Process.allowAmbiguousCommands=True
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Dfml.ignoreInvalidMinecraftCertificates=True
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Dfml.ignorePatchDiscrepancies=True
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --add-exports
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Doolloo.jlw.tmpdir=C:\Users\*****\AppData\Roaming\PCL
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Xmx3686m
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:+UnlockExperimentalVMOptions
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:+UseG1GC
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:G1NewSizePercent=20
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:G1ReservePercent=20
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:G1HeapRegionSize=32M
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:MaxGCPauseMillis=50
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:+PerfDisableSharedMem
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:MinHeapFreeRatio=25
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -XX:MaxHeapFreeRatio=40
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Dlog4j2.formatMsgNoLookups=true
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Dsun.stdout.encoding=gb2312
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -Dsun.stderr.encoding=gb2312
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] -jar
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] C:\Users\*****\AppData\Roaming\PCL\JavaWrapper.jar
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] cpw.mods.bootstraplauncher.BootstrapLauncher
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --username
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] SIHAOCHEN
+19:49:52.106 I <65 · L/获取启动参数> [ModLaunch] --version
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] "Closing Song1.6.8"
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --gameDir
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8"
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --assetsDir
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\assets
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --assetIndex
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 5
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --uuid
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 387758ed2174438489bd7a55a7ed7b21
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --accessToken
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] eyJra*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************LwK1g
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --clientId
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] ${clientid}
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --xuid
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] ${auth_xuid}
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --userType
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] msa
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --versionType
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] PCL
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --width
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 854
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --height
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 480
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --launchTarget
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] forgeclient
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --fml.forgeVersion
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 47.3.22
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --fml.mcVersion
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 1.20.1
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --fml.forgeGroup
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] net.minecraftforge
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] --fml.mcpVersion
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] 20230612.114412
+19:49:52.108 I <65 · L/获取启动参数> [ModLaunch] =================== 启动参数结束 ===================
+19:49:52.108 I <65 · L/获取启动参数> [ModLoader] 加载器 LoaderTask`2 获取启动参数 状态改变：Finished
+19:49:52.108 I <65 · L/获取启动参数> [ModLoader] 加载器 LoaderTask`2 解压文件 状态改变：Loading
+19:49:52.109 I <78 · L/解压文件> [ModLaunch] 正在解压 Natives 文件
+19:49:52.109 I <78 · L/解压文件> [ModMinecraft] 获取支持库列表：Closing Song1.6.8
+19:49:52.110 I <78 · L/解压文件> [ModLoader] 加载器 LoaderTask`2 解压文件 状态改变：Finished
+19:49:52.110 I <78 · L/解压文件> [ModLoader] 加载器 LoaderTask`2 预启动处理 状态改变：Loading
+19:49:52.110 I <71 · L/预启动处理> [ModMain] 无需调整显卡设置：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe
+19:49:52.110 I <71 · L/预启动处理> [ModMain] 无需调整显卡设置：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\pcl.exe
+19:49:52.111 I <71 · L/预启动处理> [ModLaunch] 已更新 launcher_profiles.json
+19:49:52.111 I <71 · L/预启动处理> [ModLaunch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+19:49:52.111 I <71 · L/预启动处理> [ModLoader] 加载器 LoaderTask`2 预启动处理 状态改变：Finished
+19:49:52.111 I <71 · L/预启动处理> [ModLoader] 加载器 LoaderTask`2 执行自定义命令 状态改变：Loading
+19:49:52.113 I <28 · L/执行自定义命令> [ModLoader] 加载器 LoaderTask`2 执行自定义命令 状态改变：Finished
+19:49:52.113 I <28 · L/执行自定义命令> [ModLoader] 加载器 LoaderTask`2 启动进程 状态改变：Loading
+19:49:52.114 I <70 · L/启动进程> [ModBase] 启动进程：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Djava.library.path=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Djna.tmpdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Dio.netty.native.workdir=C:\Users\*****\AppData\Roaming\.minecraft\bin\natives -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=408 -cp "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\authlib\4.0.43\authlib-4.0.43.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\brigadier\1.1.8\brigadier-1.1.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\datafixerupper\6.0.8\datafixerupper-6.0.8.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\securejarhandler\2.1.10\securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-commons\9.7.1\asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-tree\9.7.1\asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-util\9.7.1\asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\ow2\asm\asm-analysis\9.7.1\asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\eventbus\6.0.5\eventbus-6.0.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\forgespi\7.0.1\forgespi-7.0.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\coremods\5.2.4\coremods-5.2.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\modlauncher\10.0.9\modlauncher-10.0.9.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-api.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlloader\1.20.1-47.3.22\fmlloader-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries\net\minecraftforge\fmlearlydisplay\1.20.1-47.3.22\fmlearlydisplay-1.20.1-47.3.22.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\Closing Song1.6.8.jar" -Djava.net.preferIPv6Addresses=system "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,Closing Song1.6.8.jar" -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries -p C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar;C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=True -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -Doolloo.jlw.tmpdir=C:\Users\*****\AppData\Roaming\PCL -Xmx3686m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:G1HeapRegionSize=32M -XX:MaxGCPauseMillis=50 -XX:+PerfDisableSharedMem -XX:MinHeapFreeRatio=25 -XX:MaxHeapFreeRatio=40 -Dlog4j2.formatMsgNoLookups=true -Dsun.stdout.encoding=gb2312 -Dsun.stderr.encoding=gb2312 -jar C:\Users\*****\AppData\Roaming\PCL\JavaWrapper.jar cpw.mods.bootstraplauncher.BootstrapLauncher --username SIHAOCHEN --version "Closing Song1.6.8" --gameDir "C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8" --assetsDir C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\assets --assetIndex 5 --uuid 387758ed2174438489bd7a55a7ed7b21 --accessToken eyJra*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************LwK1g --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 47.3.22 --fml.mcVersion 1.20.1 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230612.114412
+19:49:52.135 I <70 · L/启动进程> [ModLaunch] 已启动游戏进程：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\java.exe
+19:49:52.135 I <70 · L/启动进程> [ModLoader] 加载器 LoaderTask`2 启动进程 状态改变：Finished
+19:49:52.137 I <70 · L/启动进程> [ModLoader] 加载器 LoaderTask`2 等待游戏窗口出现 状态改变：Loading
+19:49:52.137 I <63 · L/等待游戏窗口出现> [ModLaunch] 
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] ~ 基础参数 ~
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] PCL 版本：正式版 2.13.1.1 (408)
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] 游戏版本：正式版 1.20.1, Forge 47.3.22（20.0.1，Drop 200）
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] 资源版本：5
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] 版本继承：无
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] 分配的内存：3.6 GB（3686 MB）
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] MC 文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] 版本文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\versions\Closing Song1.6.8\
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] 版本隔离：True
+19:49:52.138 I <63 · L/等待游戏窗口出现> [ModLaunch] HMCL 格式：False
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] Java 信息：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] Natives 文件夹：C:\Users\*****\AppData\Roaming\.minecraft\bin\natives\
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] 
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] ~ 登录参数 ~
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] 玩家用户名：SIHAOCHEN
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] AccessToken：eyJra*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************LwK1g
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] ClientToken：387758ed2174438489bd7a55a7ed7b21
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] UUID：387758ed2174438489bd7a55a7ed7b21
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] 登录方式：Microsoft
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] 
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] [44372] 开始 Minecraft 日志监控
+19:49:52.139 I <63 · L/等待游戏窗口出现> [ModLaunch] [全局] 出现运行中的 Minecraft
+19:49:52.370 I <58 · Minecraft Watcher PID 44372> [ModLaunch] [44372] 日志 1/5：已出现日志输出
+19:49:52.370 I <58 · Minecraft Watcher PID 44372> [ModLaunch] [44372] Minecraft 已退出，返回值：1
+19:49:52.370 E <58 · Minecraft Watcher PID 44372> [ModLaunch] [44372] Minecraft 尚未加载完成，可能已崩溃
+19:49:52.370 I <58 · Minecraft Watcher PID 44372> [ModLaunch] [全局] 已无运行中的 Minecraft
+19:49:52.370 E <58 · Minecraft Watcher PID 44372> [ModLaunch] [44372] Minecraft 已崩溃，将在 2 秒后开始崩溃分析
+19:49:52.386 I [ModMain] 弹出提示：检测到 Minecraft 出现错误，错误分析已开始……
+19:49:52.463 I <63 · L/等待游戏窗口出现> [ModLoader] 操作已取消（加载线程 等待游戏窗口出现 已取消，当前已完成 30%）
+19:49:52.463 I <63 · L/等待游戏窗口出现> [ModLoader] 加载器 LoaderTask`2 等待游戏窗口出现 状态改变：Canceled
+19:49:52.463 I <63 · L/等待游戏窗口出现> [ModLoader] 加载器 LoaderCombo`1 Minecraft 启动 状态改变：Canceled
+19:49:52.479 I <68 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 Loader Launch 状态改变：Finished
+19:49:52.511 I [ModMain] 弹出提示：已取消启动！
+19:49:52.511 I [ModLoader] Minecraft 启动 已移出任务列表
+19:49:52.539 W <58 · Minecraft Watcher PID 44372> [ModMain] 诊断信息：
+19:49:52.539 W <58 · Minecraft Watcher PID 44372> [ModMain] 操作系统：Microsoft Windows 11 Home
+19:49:52.539 W <58 · Minecraft Watcher PID 44372> [ModMain] 剩余内存：3756 M / 16136 M
+19:49:52.539 W <58 · Minecraft Watcher PID 44372> [ModMain] DPI：96（100%）
+19:49:52.539 W <58 · Minecraft Watcher PID 44372> [ModMain] MC 文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:49:52.539 W <58 · Minecraft Watcher PID 44372> [ModMain] 文件位置：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\
+19:49:52.776 I <58 · Minecraft Watcher PID 44372> [ModLaunch] [44372] Minecraft 日志监控已退出
+19:49:54.552 I <29 · Crash Analyzer> [ModLaunch] [44372] 崩溃分析开始
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 崩溃分析暂存文件夹：C:\Users\*****\AppData\Local\Temp\PCL\TaskTemp\1469-930182\
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 步骤 1：收集日志文件
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 未发现可能可用的日志文件
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 以下为游戏输出的最后一段内容：
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] Error occurred during initialization of boot layer
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] java.nio.file.InvalidPathException: Illegal char <?> at index 23: C:\Users\*****\Desktop\???(3)\??????\???1.6.8???(?????)\.minecraft\libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 步骤 1：收集日志文件完成，收集到 1 个文件
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 步骤 2：准备日志文本
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] rawoutput.log 分类为 MinecraftLog
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 输出报告：C:\Users\*****\AppData\Local\Temp\PCL\TaskTemp\1469-930182\RawOutput.log，作为 Minecraft 或启动器日志
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 导入分析：C:\Users\*****\AppData\Local\Temp\PCL\TaskTemp\1469-930182\RawOutput.log，作为启动器日志
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] [Crash] 步骤 2：准备日志文本完成，找到游戏日志用作分析
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 步骤 3：分析崩溃原因
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 可能并未安装 Mod，不进行堆栈分析
+19:49:54.554 I <29 · Crash Analyzer> [ModCrash] 步骤 3：分析崩溃原因完成，未找到可能的原因
+19:49:54.557 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+19:49:54.572 I [MyMsgText] 普通弹窗：Minecraft 出现错误
+19:49:54.572 I [MyMsgText] 很抱歉，你的游戏出现了一些问题……
+19:49:54.572 I [MyMsgText] 如果要寻求帮助，请把错误报告文件发给对方，而不是发送这个窗口的照片或者截图。
+19:49:55.635 I [MyButton] 按下按钮：导出错误报告
+19:49:55.635 I <29 · Crash Analyzer> [ModMain] 普通弹框返回：3
+19:49:55.643 I [Dialogs] 保存弹窗：选择保存位置（FileName=错误报告-2026-11-26_19.49.55.zip, InitialDirectory=, Filter=Minecraft 错误报告(*.zip)|*.zip）
+19:49:55.918 I [ModAnimation] 两个动画帧间隔 188 ms
+19:49:59.730 I [Dialogs] 保存弹窗返回：C:\Users\*****\Desktop\错误报告-2026-11-26_19.49.55.zip
+19:49:59.745 I [ModAnimation] 两个动画帧间隔 108 ms
+19:49:59.908 W <29 · Crash Analyzer> [ModMain] 诊断信息：
+19:49:59.908 W <29 · Crash Analyzer> [ModMain] 操作系统：Microsoft Windows 11 Home
+19:49:59.908 W <29 · Crash Analyzer> [ModMain] 剩余内存：3812 M / 16136 M
+19:49:59.908 W <29 · Crash Analyzer> [ModMain] DPI：96（100%）
+19:49:59.908 W <29 · Crash Analyzer> [ModMain] MC 文件夹：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\.minecraft\
+19:49:59.908 W <29 · Crash Analyzer> [ModMain] 文件位置：C:\Users\*****\Desktop\落幕曲(3)\落幕曲懒人包\落幕曲1.6.8解压包（解压就能玩）\
+19:49:59.910 I <29 · Crash Analyzer> [ModCrash] 导出错误报告文件：游戏崩溃前的输出.txt
+19:49:59.912 I <29 · Crash Analyzer> [ModCrash] 导出错误报告文件：Closing Song1.6.8.json
+19:50:00.027 I <29 · Crash Analyzer> [ModCrash] 导出错误报告文件：PCL 启动器日志.txt
+19:50:00.038 I <29 · Crash Analyzer> [ModCrash] 导出错误报告文件：启动脚本.bat
+19:50:00.051 I <29 · Crash Analyzer> [ModBase] 正在打开资源管理器：C:\Users\*****\Desktop\错误报告-2026-11-26_19.49.55.zip
+19:50:00.051 I <29 · Crash Analyzer> [ModBase] 启动进程：explorer /select,"C:\Users\*****\Desktop\错误报告-2026-11-26_19.49.55.zip"
+19:50:00.075 I <27 · Telemetry> [ModMain] 匿名数据上报：Minecraft 崩溃
+19:50:00.103 I [ModMain] 弹出提示：错误报告已导出！
+19:50:23.421 I [MyButton] 按下按钮：版本设置
+19:50:23.458 I [FormMain] 切换主要页面：InstanceSetup, SetupLaunch
+19:50:23.581 I <27 · W/CurrentJavaWorker> [RedoableWorker] CurrentJavaWorker：运行开始
+19:50:23.581 I <27 · W/CurrentJavaWorker> [ModJava] 自动选择以下范围的 Java：[17.0, 22.0) 
+19:50:23.581 I <27 · W/CurrentJavaWorker> [ModJava] 已选定 Java：Java 17 (17.0.15.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+19:50:23.581 I <27 · W/CurrentJavaWorker> [RedoableWorker] CurrentJavaWorker：运行成功
+19:50:25.924 I [MyListItem] 按下单选列表项：设置
+19:50:27.137 I [MyListItem] 按下单选列表项：Mod 管理
+19:50:27.283 I [ModLoader] 加载器 LoaderTask`2 LocalResourceLoader 状态改变：Loading
+19:50:27.283 I [PageInstanceMod] 已刷新 Mod 列表
+19:50:27.295 I <10 · L/LocalResourceLoader> [LocalResourceLoaders] 共发现 293 个 Mod
+19:50:27.298 I <10 · L/LocalResourceLoader> [ModLoader] 加载器 LoaderTask`2 LocalResourceOnlineLoader 状态改变：Loading
+19:50:27.465 I [ModAnimation] 两个动画帧间隔 156 ms
+19:50:27.481 I <10 · L/LocalResourceLoader> [ModLoader] 加载器 LoaderTask`2 LocalResourceLoader 状态改变：Finished
+19:50:28.874 I [MyListItem] 按下单选列表项：导出
+19:50:29.040 I [PageInstanceExport] 刷新导出页面
+19:50:29.058 I [PageInstanceExport] 共发现 760 个可行的二级文件/文件夹
+19:50:29.777 I <27 · L/LocalResourceOnlineLoader> [LocalResourceLoaders] 有 293 个 Mod 需要联网获取信息，0 个 Mod 需要更新信息
+19:50:29.777 I <27 · L/LocalResourceOnlineLoader> [LocalResourceLoaders] 正在检查 Mod 信息的版本：1.20.1，加载器 Forge
+19:50:29.784 I <29 · Mod List Detail Loader Modrinth> [ModNet] 发起网络请求（POST，https://api.modrinth.com/v2/version_files），最大超时 20000
+19:50:30.363 I <29 · Mod List Detail Loader Modrinth> [LocalResourceLoaders] 从 Modrinth 获取到 194 个本地 Mod 的对应信息
+19:50:30.389 I <29 · Mod List Detail Loader Modrinth> [LocalResourceLoaders] 需要从 Modrinth 获取 194 个本地 Mod 的工程信息
+19:50:30.389 I <29 · Mod List Detail Loader Modrinth> [ModNet] 发起网络请求（GET，https://api.modrinth.com/v2/projects?ids=["th4Wn63R","6t2MdNbo","U6GY0xp0","2cMuAZAp","lhGA9TYQ","P0Mu4wcQ","mnLFouB0","YWVAO3wq","lOOpEntO","DXfVJLBA","8HFCp5k3","pcqEicMM","gPEcet33","KNUSlHiU","rtLQjYeH","hFUzfDsn","uy4Cnpcm","DqIJgy14","Ktr5lJNt","6YfOmC9t","Xkw3TXqP","40FYwb4z","GkIc6rRo","VJZc5cJx","jJfV67b1","9s6osm5g","Wnxd13zP","UnAEo77V","e0M1UDsY","Iv3kcKZn","SaCpeal4","tvuSEM6E","bV2crgLh","xv94TkTM","cl223EMc","paCz780b","i0hioBIg","qthuEuVy","vvuO3ImH","Dk6su9JN","6jH64T6j","Adega8YN","3IAJcJXa","QIt10I7z","N8MNCv66","sk9rgfiA","yD9qW65f","iFRF5kc2","UVtY3ZAC","tMycyukv","4I1XuqiY","IMuO8COj","BVzZfTc1","PWcQ3kcp","hB899VmG","Wq5SjeWM","R2OftAxM","uXXizFIs","y14St7Wn","4Rh1Mobu","FAUSd09K","5WeWGLoJ","XeEZ3fK2","Abkqr1E0","hYykXjDp","AgqoIu86","8BmcQJ2H","AdgLkXjp","YwmuwbXi","4ZVIxU8x","tHzidtq0","VayV26Pa","sRzS8pFG","NKPOiJ04","Ye73E82r","5ajMogiG","4WaVCnfB","Dw7M6XKW","mGwAPysv","aw5e7yPa","LVnvHVBp","5faXoLqX","x3HZvrj6","TaSmHw8V","9wv7LuMc","1I6q6yPS","uqnMI1kq","n2de3t2z","yPlaLxD1","s4OWxYQQ","XLsvc8Ld","b1fMg6sH","nvQzSEkH","u6dRKJwZ","J81TRJWm","ordsPcFz","umyGl7zF","46KJle7n","9d9Bkqva","atHH8NyV","WkBD5Cw5","fJFETWDN","AiwNM9O0","Q5ZXy0QB","9qdTHi0q","cPF7RWdR","D9r5EYDa","CVT4pFB2","NRjRiSSD","ORiydwz3","r4PuRGfV","5y2R1ofr","nmDcB62a","3sjzyvGR","twkfQtEc","aC3cM3Vq","BFbX9xcm","SNVQ2c0g","aMJdzVWL","JyytxgF6","LrSy5gex","cJk2qbxw","fPetb5Kh","gKNuqaQq","qQyHxfxd","ptis34fZ","j7Ux0G0U","RH2KUdKJ","KwWsINvD","XD7XOrAF","c7m1mi73","nU0bVIaL","dnVvH3YP","gedNE4y2","tagwiZkJ","jckrUoUe","uGKlslKZ","pTJ1ZloG","1OE8wbN0","AOyJhFvl","QAGBst4M","uS725fXT","qw2Ls89j","OCJRPujW","M1953qlQ","sk9knFPE","Kpxhlt9n","Zf8HMFM5","fuuu3xnx","DNECjG17","nOUYhAZV","oX7uP2kS","kepjj2sy","NjHNA0vG","UVAZ3yo1","oX6SohLj","ZouiUX7t","ZF0coYok","ELrdP6OH","T8TGycIQ","4q8UOK1d","19smZ71v","SzzJttH8","3Ihyt5WL","2zMQbEYF","pe7FN3d6","pI0D4Hrs","AMCbgyVw","3MD9Glqv","XZNI4Cpy","54eqfZSC","QHB4kBBS","R0bDWFAW","DjLobEOy","HgkivEjC","OlAQOlqx","JtifUr64","XwvK7Tzg","rI0hvYcd","nWC3kyL3","f7DTOZXy","1bokaNcj","NcUtCpym","86xjpqqS","Ua7DFN59","Ht4BfYp6","ZmLgjf6f","LOpKHB2A","MBAkmtvl","J5bVsBt9","IxxES3Kk","9jI6pmNs","Pl40cz5L","HIuqnQpi"]），最大超时 20000
+19:50:30.711 I [MyListItem] 按下单选列表项：概览
+19:50:30.869 I <29 · Mod List Detail Loader Modrinth> [LocalResourceLoaders] 已从 Modrinth 获取本地 Mod 信息，继续获取更新信息
+19:50:30.870 I <29 · Mod List Detail Loader Modrinth> [ModNet] 发起网络请求（POST，https://api.modrinth.com/v2/version_files/update_individual），最大超时 20000
+19:50:30.979 I <83 · MyImage PicLoader 3131#> [ModLoader] 加载器 LoaderDownload 文件下载 3132# 状态改变：Loading
+19:50:30.982 I <85 · MyImage PicLoader 3135#> [ModLoader] 加载器 LoaderDownload 文件下载 3136# 状态改变：Loading
+19:50:30.983 I <87 · MyImage PicLoader 3139#> [ModLoader] 加载器 LoaderDownload 文件下载 3140# 状态改变：Loading
+19:50:30.985 I [ModAnimation] 两个动画帧间隔 122 ms
+19:50:31.001 I <89 · 下载 3134/3133/3147#> [ModNet] 15568153088780650720.png：开始，起始点 0，https://cdn.modrinth.com/data/6t2MdNbo/c3a34184f0bf76437565431041da60cea0fb5ca4.png
+19:50:31.001 I <90 · 下载 3142/3141/3148#> [ModNet] 16246541887821369606.png：开始，起始点 0，https://cdn.modrinth.com/data/th4Wn63R/c077ed42a26fc19daaf69cc0de5b8c193bb5f900_96.webp
+19:50:31.001 I <91 · 下载 3138/3137/3149#> [ModNet] 17475117570978054701.png：开始，起始点 0，https://cdn.modrinth.com/data/U6GY0xp0/4165eef78a7efa0f5acda964dd094c08ee0e5680.png
+19:50:31.051 I <90 · 下载 3142/3141/3148#> [ModNet] 16246541887821369606.png：文件大小 15206（14.8 K）
+19:50:31.055 I <89 · 下载 3134/3133/3147#> [ModNet] 15568153088780650720.png：文件大小 1655（1.62 K）
+19:50:31.055 I <91 · 下载 3138/3137/3149#> [ModNet] 17475117570978054701.png：文件大小 5626（5.49 K）
+19:50:31.056 I <90 · 下载 3142/3141/3148#> [ModNet] 16246541887821369606.png：已完成
+19:50:31.056 I <90 · 下载 3142/3141/3148#> [ModLoader] 加载器 LoaderDownload 文件下载 3140# 状态改变：Finished
+19:50:31.056 I <89 · 下载 3134/3133/3147#> [ModNet] 15568153088780650720.png：已完成
+19:50:31.056 I <89 · 下载 3134/3133/3147#> [ModLoader] 加载器 LoaderDownload 文件下载 3132# 状态改变：Finished
+19:50:31.056 I <91 · 下载 3138/3137/3149#> [ModNet] 17475117570978054701.png：已完成
+19:50:31.057 I <91 · 下载 3138/3137/3149#> [ModLoader] 加载器 LoaderDownload 文件下载 3136# 状态改变：Finished
+19:50:31.459 I <29 · Mod List Detail Loader Modrinth> [LocalResourceLoaders] 从 Modrinth 获取本地 Mod 信息结束
+19:50:32.538 I [MyIconButton] 按下图标按钮：BtnTitleInner
+19:50:32.538 I [FormMain] 切换主要页面：Launch, -1
+19:50:33.815 I [MyRadioButton] 按下单选按钮：设置
+19:50:33.841 I [FormMain] 切换主要页面：Setup, -1
+19:50:33.943 I <18 · Mod List Detail Loader CurseForge> [ModNet] 发起网络请求（POST，https://api.curseforge.com/v1/fingerprints/432），最大超时 10000
+19:50:33.963 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+19:50:33.964 I <83 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+19:50:34.791 I <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到 261 个本地 Mod 的对应信息
+19:50:34.804 I <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 需要从 CurseForge 获取 261 个本地 Mod 的工程信息
+19:50:34.804 I <18 · Mod List Detail Loader CurseForge> [ModNet] 发起网络请求（POST，https://api.curseforge.com/v1/mods），最大超时 10000
+19:50:35.309 I [MyListItem] 按下单选列表项：个性化
+19:50:35.787 I <86 · MyImage PicLoader 3490#> [ModLoader] 加载器 LoaderDownload 文件下载 3491# 状态改变：Loading
+19:50:35.789 I <74 · MyImage PicLoader 3494#> [ModLoader] 加载器 LoaderDownload 文件下载 3495# 状态改变：Loading
+19:50:35.790 I <87 · MyImage PicLoader 3498#> [ModLoader] 加载器 LoaderDownload 文件下载 3499# 状态改变：Loading
+19:50:35.791 I <95 · MyImage PicLoader 3502#> [ModLoader] 加载器 LoaderDownload 文件下载 3503# 状态改变：Loading
+19:50:35.812 I <97 · 下载 3493/3492/3506#> [ModNet] 525164553306994606.png：开始，起始点 0，https://media.forgecdn.net/avatars/thumbnails/1108/988/256/256/638659549876500283.png
+19:50:35.812 I <29 · 下载 3501/3500/3507#> [ModNet] 1300517634739885691.png：开始，起始点 0，https://media.forgecdn.net/avatars/thumbnails/678/887/256/256/638068466190763519.png
+19:50:35.812 I <85 · 下载 3505/3504/3508#> [ModNet] 12770516212191580081.png：开始，起始点 0，https://media.forgecdn.net/avatars/thumbnails/467/198/256/256/637748653028908201.png
+19:50:35.812 I <84 · 下载 3497/3496/3509#> [ModNet] 4640306320829704136.png：开始，起始点 0，https://media.forgecdn.net/avatars/thumbnails/1957/490/256/256/639212028645941666.png
+19:50:35.836 I <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 已从 CurseForge 获取本地 Mod 信息，需要获取 342 个用于检查更新的文件信息
+19:50:35.836 I <18 · Mod List Detail Loader CurseForge> [ModNet] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 10000
+19:50:35.856 I <29 · 下载 3501/3500/3507#> [ModNet] 1300517634739885691.png：文件大小 16507（16.1 K）
+19:50:35.863 I <29 · 下载 3501/3500/3507#> [ModNet] 1300517634739885691.png：已完成
+19:50:35.863 I <29 · 下载 3501/3500/3507#> [ModLoader] 加载器 LoaderDownload 文件下载 3499# 状态改变：Finished
+19:50:35.873 I <97 · 下载 3493/3492/3506#> [ModNet] 525164553306994606.png：文件大小 38070（37.2 K）
+19:50:35.888 I <97 · 下载 3493/3492/3506#> [ModNet] 525164553306994606.png：已完成
+19:50:35.888 I <97 · 下载 3493/3492/3506#> [ModLoader] 加载器 LoaderDownload 文件下载 3491# 状态改变：Finished
+19:50:35.910 I <84 · 下载 3497/3496/3509#> [ModNet] 4640306320829704136.png：文件大小 80021（78.1 K）
+19:50:35.922 I <84 · 下载 3497/3496/3509#> [ModNet] 4640306320829704136.png：已完成
+19:50:35.922 I <84 · 下载 3497/3496/3509#> [ModLoader] 加载器 LoaderDownload 文件下载 3495# 状态改变：Finished
+19:50:36.034 I <85 · 下载 3505/3504/3508#> [ModNet] 12770516212191580081.png：文件大小 14436（14.1 K）
+19:50:36.034 I <85 · 下载 3505/3504/3508#> [ModNet] 12770516212191580081.png：已完成
+19:50:36.034 I <85 · 下载 3505/3504/3508#> [ModLoader] 加载器 LoaderDownload 文件下载 3503# 状态改变：Finished
+19:50:36.187 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 astikorcartsredux-1.2.5.jar 加载器为 Forge, NeoForge，与本地文件 astikorcarts-1.20.1-1.1.8.jar 的加载器 Forge 不一致，已忽略
+19:50:36.191 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 ATi Structures Vanilla V1.4.7.jar 加载器为 Forge, Fabric, NeoForge，与本地文件 ati_structuresVanilla-1.1.0-forge-1.20.1.jar 的加载器 Forge 不一致，已忽略
+19:50:36.191 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 battlemusic-1.0.2.jar 加载器为 Forge, NeoForge，与本地文件 battlemusic-1.20.1-1.1.1.jar 的加载器 Forge 不一致，已忽略
+19:50:36.192 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 cluttered-[Forge]-3.0.3-1.20.1.jar 加载器为 Forge, NeoForge，与本地文件 cluttered-2.1-1.20.1.jar 的加载器 Forge 不一致，已忽略
+19:50:36.192 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 cristellib-1.1.6-forge.jar 加载器为 Forge，与本地文件 cristellib-1.1.5-forge.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.192 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 dungeons_enhanced-1.20.1-5.4.3.jar 加载器为 Forge, NeoForge，与本地文件 dungeons_enhanced-1.20.1-5.4.0.jar 的加载器 Forge 不一致，已忽略
+19:50:36.192 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 Ecliptic-Seasons-1.20.1-forge-0.15.6-all.jar 加载器为 Forge，与本地文件 EclipticSeasons-1.20.1-forge-0.10-pre10-2-all.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.192 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 Ecliptic-Seasons-1.20.1-forge-0.15.5-all.jar 加载器为 Forge，与本地文件 EclipticSeasons-1.20.1-forge-0.10-pre10-2-all.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.192 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 chloride-FORGE-mc1.20.1-v1.8.1.jar 加载器为 Forge，与本地文件 embeddiumplus-1.20.1-v1.2.13.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.193 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 entity_model_features-3.3.12-1.20.1-forge.jar 加载器为 Forge，与本地文件 entity_model_features_forge_1.20.1-2.2.6.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.193 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 entity_texture_features-7.2.7-1.20.1-forge.jar 加载器为 Forge，与本地文件 entity_texture_features_forge_1.20.1-6.2.9.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.193 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 entity_texture_features_forge_1.20-4.4.5.jar 加载器为 Forge，与本地文件 entity_texture_features_forge_1.20.1-6.2.9.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.193 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 exposure_catalog-forge-1.20.1-1.1.1.jar 加载器为 Forge，与本地文件 exposure_catalog-1.20.1-1.0.3-forge.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.193 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 flib-1.20-0.0.5.jar 加载器为 Forge，与本地文件 flib-1.20.1-0.0.14.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.193 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 iaf_patcher-2.0-beta.1-1.20.1.jar 加载器为 Forge，与本地文件 iaf_patcher-1.0-all.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 invtweaks-1.20.1-1.2.2.jar 加载器为 Forge，与本地文件 invtweaks-1.20.1-1.2.0.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 irons_spellbooks-1.20.1-3.16.4.jar 加载器为 Forge，与本地文件 irons_spellbooks-1.20.1-3.4.0.9.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 irons_spellbooks-1.20.1-1.1.8.jar 加载器为 Forge，与本地文件 irons_spellbooks-1.20.1-3.4.0.9.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 irons_spells_js-1.20.1-6.5-3.16-r3-release.jar 加载器为 Forge，与本地文件 irons_spells_js-1.20.1-3.1.1-release.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 lionfishapi-3.0.jar 加载器为 Forge，与本地文件 lionfishapi-2.4-Fix.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 lootjs-forge-1.20.1-2.10.0.jar 加载器为 Forge，与本地文件 lootjs-forge-1.20.1-2.12.0.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 MoogsEndStructures-universal-1.20-2.1.0.jar 加载器为 Forge, Fabric, NeoForge，与本地文件 mes-1.3.4-1.20-forge.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.194 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 MoogsEndStructures-universal-1.20-2.1.0.jar 加载器为 Forge, Fabric, NeoForge，与本地文件 mes-1.3.4-1.20-forge.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.196 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 resourcefulconfig-forge-1.20.1-2.1.3.jar 加载器为 Forge，与本地文件 resourcefulconfig-forge-1.20.1-2.1.2.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 shutter-2.3.0-forge-1.20.1.jar 加载器为 Forge, NeoForge，与本地文件 shutter-2.0.5-1.20.1.jar 的加载器 Forge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 simpletomb-1.20.1-1.0.18.jar 加载器为 Forge，与本地文件 simpletomb-1.20.1-1.3.0.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 usefulspyglass-forge-1.20.1-1.0.2.jar 加载器为 Forge，与本地文件 usefulspyglass-forge-1.20.1-0.6.1.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 usefulspyglass-forge-1.20.1-0.8.0.jar 加载器为 Forge，与本地文件 usefulspyglass-forge-1.20.1-0.6.1.jar 的加载器 Forge, NeoForge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 wan_ancient_beasts-forge_1.20.1_1.4.3.jar 加载器为 Forge, NeoForge，与本地文件 wab-1.20.1-1.0.2.jar 的加载器 Forge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 wab-1.20.1-1.4.0.jar 加载器为 Forge, NeoForge，与本地文件 wab-1.20.1-1.0.2.jar 的加载器 Forge 不一致，已忽略
+19:50:36.197 W <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取到的更新文件 Yakumoblade-1.1.4-1.20.1_Forge.jar 加载器为 Forge, NeoForge，与本地文件 yakumoblade-1.20.1-1.1.0-fix.jar 的加载器 Forge 不一致，已忽略
+19:50:36.198 I <18 · Mod List Detail Loader CurseForge> [LocalResourceLoaders] 从 CurseForge 获取 Mod 更新信息结束
+19:50:36.211 I <27 · L/LocalResourceOnlineLoader> [LocalResourceLoaders] 联网获取本地 Mod 信息完成，为 278 个 Mod 更新缓存
+19:50:36.219 I <27 · L/LocalResourceOnlineLoader> [ModLoader] 加载器 LoaderTask`2 LocalResourceOnlineLoader 状态改变：Finished
+19:50:36.658 I [MyListItem] 按下单选列表项：其他
+19:50:37.712 I [MyListItem] 按下单选列表项：启动
+19:50:37.852 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+19:50:37.853 I <95 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+19:50:39.287 I [MyRadioButton] 按下单选按钮：启动
+19:50:39.288 I [FormMain] 切换主要页面：Launch, -1
+19:50:40.474 I [MyButton] 按下按钮：版本选择
+19:50:40.475 I [FormMain] 切换主要页面：InstanceSelect, SetupLaunch
+19:50:42.373 I [MyIconButton] 按下图标按钮：BtnTitleInner
+19:50:42.373 I [FormMain] 切换主要页面：Launch, -1
+19:50:43.415 I [MyRadioButton] 按下单选按钮：更多
+19:50:43.424 I [ModLoader] 加载器 LoaderTask`2 Help Page 状态改变：Loading
+19:50:43.424 I [FormMain] 切换主要页面：Other, -1
+19:50:43.427 I <74 · L/Help Page> [ModBase] 将资源写入到文件：Help → C:\Users\*****\AppData\Local\Temp\PCL\Cache\Help.zip
+19:50:43.480 I <74 · L/Help Page> [ModMain] 已解压内置帮助文件，目前状态：True
+19:50:43.480 I <74 · L/Help Page> [ModMain] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+19:50:43.481 I <74 · L/Help Page> [ModMain] 已扫描缓存文件夹下的帮助文件，目前总计 40 条
+19:50:43.526 I <74 · L/Help Page> [ModLoader] 加载器 LoaderTask`2 Help Page 状态改变：Finished
+19:50:45.747 I [MyRadioButton] 按下单选按钮：启动
+19:50:45.747 I [FormMain] 切换主要页面：Launch, -1
+19:50:47.570 I [MyRadioButton] 按下单选按钮：离线
+19:50:47.676 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+19:50:47.676 I <87 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+19:50:47.677 I [MySkin] 载入头像成功：Loader Skin Legacy
+19:50:48.333 I [MyRadioButton] 按下单选按钮：正版
+19:50:58.956 I [FormMain] 收到关闭指令
+19:50:59.184 I [FormMain] 程序已退出，返回值：Success
